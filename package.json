@@ -1,0 +1,12 @@
+{
+  "name": "cli-app",
+  "version": "1.0.0",
+  "description": "CLI interface for GDB",
+  "main": "index.js",
+  "author": "Jonah Graham",
+  "license": "MIT",
+  "dependencies": {
+    "wasm-webterm": "cryptool-org/wasm-webterm",
+    "xterm": "^5.1.0"
+  }
+}
